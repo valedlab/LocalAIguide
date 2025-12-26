@@ -25,7 +25,7 @@ A modern, user-friendly desktop application that provides step-by-step guidance 
 ```bash
 # If you have Git
 git clone https://github.com/valedlab/LocalAIguide.git
-cd local-ai-guide
+cd localaiguide
 
 # Or extract the downloaded folder and open terminal in that directory
 ```
@@ -182,4 +182,5 @@ Found a bug or have a feature idea? Feel free to improve the project!
 ---
 
 **Happy coding! 🚀** If you find this tool helpful, consider sharing it with others interested in local AI setup.
+
 
